@@ -1,0 +1,105 @@
+body{
+    margin: 0%;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size:50px;
+}
+.name-heighlight{
+    color:crimson;
+    
+    
+}
+.fast-section-fast-div{
+    width: 40%;
+    float: left;
+    margin-left:5%;
+    padding-left:2%;
+}
+.fast-section-fast-div img{
+    width:100%;
+}
+.secound-section-fast-div img{
+width:100%;
+}
+section{
+    height:600px;
+    padding:100px;
+
+
+}
+.top-background-img{
+    background-image:url("img/header-bg.png");
+    background-repeat: no-repeat;
+}
+.top-section-link-baton{
+    font-size:33px;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    background-image: -o-linear-gradient(tomato lightSalmon);
+    background-color: crimson;
+    font-weight: 700;
+}
+.secound-section-fast-div{
+    width: 40%;
+    float: left;
+    margin-left:5%;
+    padding-left:2%;
+}
+.second-section-link-baton{
+    font-size:33px;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    background-image: -o-linear-gradient(tomato lightSalmon);
+    background-color: crimson;
+    font-weight: 700;
+}
+.second-background-img{
+    background-image: url("img/biography-bg.png");
+    background-repeat: no-repeat;
+}
+.my-latest-work{
+    width:20%;
+    float:left;
+    margin-left:2%;
+    padding-left:11%;
+}
+.my-latest-work img{
+width:100%;
+height:400px;
+}
+.my-latest-work-h1{
+    
+    text-align: center;
+    
+}
+.my-latest-workh2{
+    background-image: url("img/latest-work-bg.png");
+    background-repeat: no-repeat;
+}
+.my-latest-workh3{
+    background-image:url("img/footer-bg.png");
+    background-repeat: no-repeat;
+    text-align: center;
+    color:black;
+}
+.my-latest-workh4{
+    background-color:crimson;
+    font-size: 15px;
+    text-align:center;
+    padding:2%;
+    margin: 5%;
+    border-radius:10px;
+
+}
+
+
+
+
+
+  
+
